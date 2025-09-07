@@ -1,39 +1,34 @@
 {
   "questions": [
     {
-      "id": 1,
-      "question": "What is the largest planet in our solar system?",
-      "answers": ["Earth", "Jupiter", "Saturn", "Neptune"],
+      "question": "What is the capital of France?",
+      "answers": ["London", "Berlin", "Paris", "Madrid"],
+      "correctAnswer": 2,
+      "hint": "Known as the City of Light"
+    },
+    {
+      "question": "Which planet is closest to the Sun?",
+      "answers": ["Venus", "Mercury", "Earth", "Mars"],
       "correctAnswer": 1,
-      "hint": "This planet is known for its Great Red Spot and has over 70 moons."
+      "hint": "Named after the Roman messenger god"
     },
     {
-      "id": 2,
-      "question": "Which programming language is primarily used for Unity game development?",
-      "answers": ["Java", "Python", "C#", "JavaScript"],
-      "correctAnswer": 2,
-      "hint": "This language was developed by Microsoft and is pronounced 'C-Sharp'."
-    },
-    {
-      "id": 3,
-      "question": "What is the chemical symbol for gold?",
-      "answers": ["Go", "Gd", "Au", "Ag"],
-      "correctAnswer": 2,
-      "hint": "This symbol comes from the Latin word 'aurum' meaning gold."
-    },
-    {
-      "id": 4,
-      "question": "Which year did World War II end?",
-      "answers": ["1944", "1945", "1946", "1947"],
+      "question": "What is 2 + 2?",
+      "answers": ["3", "4", "5", "6"],
       "correctAnswer": 1,
-      "hint": "This was the same year the atomic bombs were dropped on Japan."
+      "hint": "Basic addition problem"
     },
     {
-      "id": 5,
-      "question": "What is the fastest land animal?",
-      "answers": ["Lion", "Horse", "Cheetah", "Leopard"],
+      "question": "Which animal is known as the King of the Jungle?",
+      "answers": ["Tiger", "Elephant", "Lion", "Leopard"],
       "correctAnswer": 2,
-      "hint": "This spotted cat can reach speeds up to 70 mph in short bursts."
+      "hint": "Has a magnificent mane"
+    },
+    {
+      "question": "What color do you get when you mix red and blue?",
+      "answers": ["Green", "Purple", "Orange", "Yellow"],
+      "correctAnswer": 1,
+      "hint": "A royal color"
     }
   ]
 }
