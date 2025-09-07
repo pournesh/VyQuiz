@@ -4,31 +4,36 @@
       "id": 1,
       "question": "What is the largest planet in our solar system?",
       "answers": ["Earth", "Jupiter", "Saturn", "Neptune"],
-      "correctAnswer": 1
+      "correctAnswer": 1,
+      "hint": "This planet is known for its Great Red Spot and has over 70 moons."
     },
     {
       "id": 2,
-      "question": "Which programming language is primarily used for Unity?",
+      "question": "Which programming language is primarily used for Unity game development?",
       "answers": ["Java", "Python", "C#", "JavaScript"],
-      "correctAnswer": 2
+      "correctAnswer": 2,
+      "hint": "This language was developed by Microsoft and is pronounced 'C-Sharp'."
     },
     {
       "id": 3,
       "question": "What is the chemical symbol for gold?",
       "answers": ["Go", "Gd", "Au", "Ag"],
-      "correctAnswer": 2
+      "correctAnswer": 2,
+      "hint": "This symbol comes from the Latin word 'aurum' meaning gold."
     },
     {
       "id": 4,
       "question": "Which year did World War II end?",
       "answers": ["1944", "1945", "1946", "1947"],
-      "correctAnswer": 1
+      "correctAnswer": 1,
+      "hint": "This was the same year the atomic bombs were dropped on Japan."
     },
     {
       "id": 5,
       "question": "What is the fastest land animal?",
       "answers": ["Lion", "Horse", "Cheetah", "Leopard"],
-      "correctAnswer": 2
+      "correctAnswer": 2,
+      "hint": "This spotted cat can reach speeds up to 70 mph in short bursts."
     }
   ]
 }
