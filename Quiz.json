@@ -1,34 +1,34 @@
 {
   "questions": [
     {
-      "question": "Who is the Called as Tharkuri of Karur?",
-      "answers": ["Madhuri", "B Madhuri ", "Madhuri B", "Mental Madhuri "],
+      "question": "What is the main scripting language used in Unity?",
+      "answers": ["JavaScript", "C#", "Python", "Java"],
+      "correctAnswer": 1,
+      "hint": "Microsoft's object-oriented programming language"
+    },
+    {
+      "question": "Which component is required for an object to be visible in Unity?",
+      "answers": ["Collider", "Rigidbody", "Renderer", "Transform"],
       "correctAnswer": 2,
-      "hint": "Known as the City of Lights"
+      "hint": "Makes objects appear on screen"
     },
     {
-      "question": "Which planet is closest to the Sun?",
-      "answers": ["Venus", "Mercury", "Earth", "Mars"],
+      "question": "What does FPS stand for in game development?",
+      "answers": ["First Person Shooter", "Frames Per Second", "File Processing System", "Fast Pixel Shader"],
       "correctAnswer": 1,
-      "hint": "Named after the Roman messenger god"
+      "hint": "Measures how smooth your game runs"
     },
     {
-      "question": "What is 2 + 2?",
-      "answers": ["3", "4", "5", "6"],
+      "question": "Which Unity method is called once when the game starts?",
+      "answers": ["Update()", "Start()", "Awake()", "FixedUpdate()"],
       "correctAnswer": 1,
-      "hint": "Basic addition problem"
+      "hint": "Called after Awake() but before the first frame"
     },
     {
-      "question": "Which animal is known as the King of the Jungle?",
-      "answers": ["Tiger", "Elephant", "Lion", "Leopard"],
-      "correctAnswer": 2,
-      "hint": "Has a magnificent mane"
-    },
-    {
-      "question": "What color do you get when you mix red and blue?",
-      "answers": ["Green", "Purple", "Orange", "Yellow"],
+      "question": "What file format does Unity use for 3D models?",
+      "answers": [".png", ".fbx", ".mp3", ".txt"],
       "correctAnswer": 1,
-      "hint": "A royal color"
+      "hint": "Autodesk's 3D file format"
     }
   ]
 }
