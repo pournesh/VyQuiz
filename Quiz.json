@@ -1,8 +1,8 @@
 {
   "questions": [
     {
-      "question": "What is the capital of France?",
-      "answers": ["London", "Berlin", "Paris", "Madrid"],
+      "question": "Who is the Called as Tharkuri of Karur?",
+      "answers": ["Madhuri", "B Madhuri ", "Madhuri B", "Mental Madhuri "],
       "correctAnswer": 2,
       "hint": "Known as the City of Light"
     },
