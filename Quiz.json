@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the largest planet in our solar system?",
+      "answers": ["Earth", "Jupiter", "Saturn", "Neptune"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "Which programming language is primarily used for Unity?",
+      "answers": ["Java", "Python", "C#", "JavaScript"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3,
+      "question": "What is the chemical symbol for gold?",
+      "answers": ["Go", "Gd", "Au", "Ag"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "Which year did World War II end?",
+      "answers": ["1944", "1945", "1946", "1947"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "What is the fastest land animal?",
+      "answers": ["Lion", "Horse", "Cheetah", "Leopard"],
+      "correctAnswer": 2
+    }
+  ]
+}
